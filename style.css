@@ -38,13 +38,13 @@ h3 {
 
 a {
 	text-decoration: none;
-	color: #4A6335;
+	color: white;
 	transition: color 0.3s ease;
 }
 
 
 a:hover {
-	color: #98D165;
+	color: #032C6C;
 }
 
 
